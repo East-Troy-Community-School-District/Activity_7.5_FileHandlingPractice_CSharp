@@ -1,0 +1,30 @@
+C:\Users\Nolan Pawelski\Desktop\ReadFromFileGUI\bin\Debug\ReadFromFileGUI.exe.config
+C:\Users\Nolan Pawelski\Desktop\ReadFromFileGUI\bin\Debug\ReadFromFileGUI.exe
+C:\Users\Nolan Pawelski\Desktop\ReadFromFileGUI\bin\Debug\ReadFromFileGUI.pdb
+C:\Users\Nolan Pawelski\Desktop\ReadFromFileGUI\obj\Debug\ReadFromFileGUI.csprojAssemblyReference.cache
+C:\Users\Nolan Pawelski\Desktop\ReadFromFileGUI\obj\Debug\ReadFromFileGUI.ReadFromFileForm.resources
+C:\Users\Nolan Pawelski\Desktop\ReadFromFileGUI\obj\Debug\ReadFromFileGUI.Properties.Resources.resources
+C:\Users\Nolan Pawelski\Desktop\ReadFromFileGUI\obj\Debug\ReadFromFileGUI.csproj.GenerateResource.cache
+C:\Users\Nolan Pawelski\Desktop\ReadFromFileGUI\obj\Debug\ReadFromFileGUI.csproj.CoreCompileInputs.cache
+C:\Users\Nolan Pawelski\Desktop\ReadFromFileGUI\obj\Debug\ReadFromFileGUI.exe
+C:\Users\Nolan Pawelski\Desktop\ReadFromFileGUI\obj\Debug\ReadFromFileGUI.pdb
+C:\Users\pawel\OneDrive - East Troy Community School District\Developing_Desktop_Applications\2021-2022\Unit_8_FilesAndStreams\Day_3\Programs\ReadFromFileGUI\bin\Debug\ReadFromFileGUI.exe.config
+C:\Users\pawel\OneDrive - East Troy Community School District\Developing_Desktop_Applications\2021-2022\Unit_8_FilesAndStreams\Day_3\Programs\ReadFromFileGUI\bin\Debug\ReadFromFileGUI.exe
+C:\Users\pawel\OneDrive - East Troy Community School District\Developing_Desktop_Applications\2021-2022\Unit_8_FilesAndStreams\Day_3\Programs\ReadFromFileGUI\bin\Debug\ReadFromFileGUI.pdb
+C:\Users\pawel\OneDrive - East Troy Community School District\Developing_Desktop_Applications\2021-2022\Unit_8_FilesAndStreams\Day_3\Programs\ReadFromFileGUI\obj\Debug\ReadFromFileGUI.csproj.AssemblyReference.cache
+C:\Users\pawel\OneDrive - East Troy Community School District\Developing_Desktop_Applications\2021-2022\Unit_8_FilesAndStreams\Day_3\Programs\ReadFromFileGUI\obj\Debug\ReadFromFileGUI.ReadFromFileForm.resources
+C:\Users\pawel\OneDrive - East Troy Community School District\Developing_Desktop_Applications\2021-2022\Unit_8_FilesAndStreams\Day_3\Programs\ReadFromFileGUI\obj\Debug\ReadFromFileGUI.Properties.Resources.resources
+C:\Users\pawel\OneDrive - East Troy Community School District\Developing_Desktop_Applications\2021-2022\Unit_8_FilesAndStreams\Day_3\Programs\ReadFromFileGUI\obj\Debug\ReadFromFileGUI.csproj.GenerateResource.cache
+C:\Users\pawel\OneDrive - East Troy Community School District\Developing_Desktop_Applications\2021-2022\Unit_8_FilesAndStreams\Day_3\Programs\ReadFromFileGUI\obj\Debug\ReadFromFileGUI.csproj.CoreCompileInputs.cache
+C:\Users\pawel\OneDrive - East Troy Community School District\Developing_Desktop_Applications\2021-2022\Unit_8_FilesAndStreams\Day_3\Programs\ReadFromFileGUI\obj\Debug\ReadFromFileGUI.exe
+C:\Users\pawel\OneDrive - East Troy Community School District\Developing_Desktop_Applications\2021-2022\Unit_8_FilesAndStreams\Day_3\Programs\ReadFromFileGUI\obj\Debug\ReadFromFileGUI.pdb
+C:\Users\pawel\Desktop\ReadFromFileGUI\bin\Debug\ReadFromFileGUI.exe.config
+C:\Users\pawel\Desktop\ReadFromFileGUI\bin\Debug\ReadFromFileGUI.exe
+C:\Users\pawel\Desktop\ReadFromFileGUI\obj\Debug\ReadFromFileGUI.csproj.AssemblyReference.cache
+C:\Users\pawel\Desktop\ReadFromFileGUI\obj\Debug\ReadFromFileGUI.ReadFromFileForm.resources
+C:\Users\pawel\Desktop\ReadFromFileGUI\obj\Debug\ReadFromFileGUI.Properties.Resources.resources
+C:\Users\pawel\Desktop\ReadFromFileGUI\obj\Debug\ReadFromFileGUI.csproj.GenerateResource.cache
+C:\Users\pawel\Desktop\ReadFromFileGUI\obj\Debug\ReadFromFileGUI.csproj.CoreCompileInputs.cache
+C:\Users\pawel\Desktop\ReadFromFileGUI\obj\Debug\ReadFromFileGUI.exe
+C:\Users\pawel\Desktop\ReadFromFileGUI\obj\Debug\ReadFromFileGUI.pdb
+C:\Users\pawel\Desktop\ReadFromFileGUI\bin\Debug\ReadFromFileGUI.pdb

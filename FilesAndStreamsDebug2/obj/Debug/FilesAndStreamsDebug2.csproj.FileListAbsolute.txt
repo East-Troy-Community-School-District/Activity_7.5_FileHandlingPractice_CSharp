@@ -1,0 +1,7 @@
+C:\Users\pawel\Desktop\FilesAndStreamsDebug2\bin\Debug\FilesAndStreamsDebug2.exe.config
+C:\Users\pawel\Desktop\FilesAndStreamsDebug2\bin\Debug\FilesAndStreamsDebug2.exe
+C:\Users\pawel\Desktop\FilesAndStreamsDebug2\bin\Debug\FilesAndStreamsDebug2.pdb
+C:\Users\pawel\Desktop\FilesAndStreamsDebug2\obj\Debug\FilesAndStreamsDebug2.csproj.AssemblyReference.cache
+C:\Users\pawel\Desktop\FilesAndStreamsDebug2\obj\Debug\FilesAndStreamsDebug2.csproj.CoreCompileInputs.cache
+C:\Users\pawel\Desktop\FilesAndStreamsDebug2\obj\Debug\FilesAndStreamsDebug2.exe
+C:\Users\pawel\Desktop\FilesAndStreamsDebug2\obj\Debug\FilesAndStreamsDebug2.pdb
